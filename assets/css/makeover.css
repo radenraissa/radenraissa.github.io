@@ -853,6 +853,10 @@ section,
   padding: 120px 0 60px 0;
   display: flex;
   align-items: center;
+  background: linear-gradient(#005200b3, #053d05b3), url('../img/overlay.jpg') !important;
+  background-size: cover !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
 }
 
 .hero h1 {
